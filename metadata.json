@@ -1,0 +1,5 @@
+{
+  "name": "Wavave API Pairing Tool",
+  "description": "A web application to get a WhatsApp pairing code using the Wavave API. Enter a phone number to retrieve the pairing code.",
+  "requestFramePermissions": []
+}
